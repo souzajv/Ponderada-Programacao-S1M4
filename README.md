@@ -35,7 +35,7 @@ void loop()
 }
 ```
 ## 📽️ Demonstração em Vídeo
-[Assista ao vídeo aqui](./assets/demonstracao.mp4)
+[Assista ao vídeo da demonstração no YouTube](https://youtube.com/shorts/GTIZzNoFm28?feature=share)
 <br><br>
 ## 🚀 Próximos Passos
 Agora que fiz o LED interno piscar, o próximo passo será conectar LEDs externos e criar padrões de pisca-pisca mais avançados.
